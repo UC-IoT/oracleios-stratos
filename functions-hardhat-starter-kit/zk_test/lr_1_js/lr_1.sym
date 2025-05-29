@@ -1,0 +1,5 @@
+1,1,0,main.y
+2,-1,0,main.intercept
+3,2,0,main.x1
+4,3,0,main.weight1
+5,4,0,main.aux1

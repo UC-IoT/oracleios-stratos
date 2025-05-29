@@ -1,0 +1,96 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "petId",
+						"type": "uint256"
+					}
+				],
+				"name": "adopt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "adopters",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getAdopters",
+				"outputs": [
+					{
+						"internalType": "address[16]",
+						"name": "",
+						"type": "address[16]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/xopherw/Documents/nishant/pet-shop/contracts/Adoption.sol": "Adoption"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/xopherw/Documents/nishant/pet-shop/contracts/Adoption.sol": {
+			"keccak256": "0x5127adb30af721b1ff53f46836514fbb94add9f84fd67c6a47e6a1a350e5a9d2",
+			"urls": [
+				"bzz-raw://a4cc53b081bb038dd12abff0f4018adfe94560cef0d3830372553c0db9552898",
+				"dweb:/ipfs/QmWsEEV28iRGj7mnEEP8a8db6J6DRWeSthNL4cjMGi7Sap"
+			]
+		}
+	},
+	"version": 1
+}

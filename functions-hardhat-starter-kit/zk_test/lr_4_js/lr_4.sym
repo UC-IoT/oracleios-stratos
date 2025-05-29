@@ -1,0 +1,14 @@
+1,1,0,main.y
+2,2,0,main.intercept
+3,3,0,main.x1
+4,4,0,main.x2
+5,5,0,main.x3
+6,6,0,main.x4
+7,7,0,main.weight1
+8,8,0,main.weight2
+9,9,0,main.weight3
+10,10,0,main.weight4
+11,11,0,main.aux1
+12,12,0,main.aux2
+13,13,0,main.aux3
+14,-1,0,main.aux4
